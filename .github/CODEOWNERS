@@ -1,0 +1,7 @@
+# OpsFlow Code Owners
+# Ye log in folders mein changes ko approve karenge
+
+.github/workflows/  @UzairAjaz
+migrations/         @UzairAjaz
+app/                @UzairAjaz
+*                   @UzairAjaz
